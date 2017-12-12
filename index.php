@@ -120,7 +120,7 @@
         </div>
 
             <a href="Flash/The Flash.html">
-            <img src="Flash/The Flash.jpg" />
+            <img src="Flash/The Flash.jpg"WIDTH=200 HEIGHT=300 />
 
         </a>
 
@@ -131,7 +131,7 @@
         <h2>Arrow</h2>
 	 </div>
         <a href="Arrow/arrow.html">
-            <img src="Arrow/arrow.jpg"/>
+            <img src="Arrow/arrow.jpg"WIDTH=200 HEIGHT=300/>
         </a>
 
 
@@ -142,7 +142,7 @@
         <h2>The Walking dead</h2>
 		</div>
         <a href="The Walking Dead/The Walking Dead.html">
-            <img src="The Walking Dead/twe.jpg" />
+            <img src="The Walking Dead/twe.jpg"WIDTH=200 HEIGHT=300 />
 
         </a>
 
@@ -154,7 +154,7 @@
         <h2>DC Legends Of Tomorrow</h2>
 		</div>
         <a href="DC Legends Of Tomorrow/DC Legends Of Tomorrow.html">
-            <img src="DC Legends Of Tomorrow/DC Legends Of Tomorrow.jpg"  WIDTH=450 HEIGHT=650/>
+            <img src="DC Legends Of Tomorrow/DC Legends Of Tomorrow.jpg" WIDTH=200 HEIGHT=300/>
 
         </a>
 
@@ -167,7 +167,7 @@
         <h2>Supergirl</h2>
 		        </div>
         <a href="Supergirl/Supergirl.html">
-            <img src="Supergirl/Supergirl.jpg"  WIDTH=450 HEIGHT=550/>
+            <img src="Supergirl/Supergirl.jpg"WIDTH=200 HEIGHT=300/>
         </a>
 
         
@@ -177,7 +177,7 @@
          <h2>Gotham</h2>
 		       </div>
         <a href="Gotham/Gotham.html">
-            <img src="Gotham/gotham.jpg"  WIDTH=450 HEIGHT=650/>
+            <img src="Gotham/gotham.jpg"WIDTH=200 HEIGHT=300/>
         </a>
 
 
