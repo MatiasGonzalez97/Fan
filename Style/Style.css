@@ -1,0 +1,158 @@
+
+
+
+html{
+    
+         background-image: url("../Fondos1.jpg");
+
+    
+    
+    
+    
+}
+
+
+
+form label {
+		font-weight: 600;
+		text-transform: uppercase;
+		color: #C71415;
+		display: block;
+		margin: 0 0 1em 0;
+	}
+
+
+.clase1{
+    border-radius: 106px 106px 106px 106px;
+-moz-border-radius: 106px 106px 106px 106px;
+-webkit-border-radius: 106px 106px 106px 106px;
+border: 0px solid #000000;
+    text-align: center;
+    padding:10 10 2px;
+    width:710px;
+    position:relative;
+    background: rgba(245, 0, 0, 0.7);
+    
+
+}
+.clase2{
+    border-radius: 106px 106px 106px 106px;
+-moz-border-radius: 106px 106px 106px 106px;
+-webkit-border-radius: 106px 106px 106px 106px;
+border: 0px solid #000000;
+    text-align: center;
+    padding:10 10 2px;
+    width:710px;
+    position:relative;
+    background: rgba(0, 245, 0, 0.7);
+    
+}
+
+.clase3{
+    border-radius: 106px 106px 106px 106px;
+-moz-border-radius: 106px 106px 106px 106px;
+-webkit-border-radius: 106px 106px 106px 106px;
+border: 0px solid #000000;
+    text-align: center;
+    padding:10 10 2px;
+    width:710px;
+    position:relative;
+    background: rgba(245, 0, 0, 0.7);
+    
+    
+    
+}
+
+
+.clase4{
+    border-radius: 106px 106px 106px 106px;
+-moz-border-radius: 106px 106px 106px 106px;
+-webkit-border-radius: 106px 106px 106px 106px;
+border: 0px solid #000000;
+    text-align: center;
+    padding:10 10 2px;
+    width:710px;
+    position:relative;
+    background: rgba(245, 0, 0, 0.7);
+    
+    
+    
+}
+
+
+.clase5{
+    border-radius: 106px 106px 106px 106px;
+-moz-border-radius: 106px 106px 106px 106px;
+-webkit-border-radius: 106px 106px 106px 106px;
+border: 0px solid #000000;
+    text-align: center;
+    padding:10 10 2px;
+    width:710px;
+    position:relative;
+    background: rgba(245, 0, 0, 0.7);
+    
+    
+    
+    
+    
+}
+
+
+.clase6{
+    border-radius: 106px 106px 106px 106px;
+-moz-border-radius: 106px 106px 106px 106px;
+-webkit-border-radius: 106px 106px 106px 106px;
+border: 0px solid #000000;
+    text-align: center;
+    padding:10 10 2px;
+    width:710px;
+    position:relative;
+    background: rgba(245, 0, 0, 0.7);
+    
+    
+    
+}
+
+
+
+
+a {
+    color: #0083e8;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+body {
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+   
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+    background-color: rgba(127, 127, 127, 0.56);
+    display:block;
+margin:auto;
+
+}
+
+img{
+display:block;
+margin:auto;
+     animation: colorize 5s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
